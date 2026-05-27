@@ -38,12 +38,6 @@ e evoluir continuamente.
 Aplicação Java com POO, ArrayList e interface via terminal.  
 Em evolução para API REST com Spring Boot.
 
-## 📊 Estatísticas
-
-![Rhaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RhanielFabricio&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RhanielFabricio&layout=compact&theme=tokyonight&locale=pt-br)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhaniel-fabricio-4b065677)
