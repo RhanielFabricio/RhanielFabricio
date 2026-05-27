@@ -1,27 +1,48 @@
 # Olá, sou Rhaniel Fabricio! 👋
 
-Desenvolvedor Java Júnior com foco em backend,
-formado em Sistemas de Informação pela UNIP (2025).
+🖥️ Desenvolvedor Java Júnior | Backend  
+☕ Focado em Java, Spring Boot e REST API  
+📍 São Paulo, SP
+
+## 🧑‍💻 Sobre mim
+
+Desenvolvedor backend em formação, graduado em Sistemas 
+de Informação pela UNIP (2025). Tenho background em 
+infraestrutura de TI, atuando como único responsável 
+técnico em ambiente corporativo — experiência que me 
+deu visão real de como sistemas funcionam em produção.
+
+Aqui no GitHub compartilho projetos e estudos que fazem 
+parte da minha evolução como desenvolvedor Java.
 
 ## 🚀 Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📌 Sobre mim
+## 🎯 Objetivo
 
-- 🎯 Buscando primeira oportunidade como Dev Java Jr
-- 📚 Estudando Spring Boot e REST API na prática
-- 💼 Background em infraestrutura de TI e suporte técnico
-- 📍 São Paulo, SP — disponível presencial, híbrido ou remoto
+Busco minha primeira oportunidade como Desenvolvedor 
+Java Jr / Backend Developer, onde eu possa contribuir 
+com dedicação, aprender com profissionais experientes 
+e evoluir continuamente.
 
 ## 📂 Projeto em destaque
 
-🗓️ [Sistema de Gerenciamento de Eventos](https://github.com/RhanielFabricio/Sistemas-de-Eventos-Java)
-Aplicação Java com POO, ArrayList e interface via terminal.
+🗓️ [Sistema de Gerenciamento de Eventos](https://github.com/RhanielFabricio/Sistemas-de-Eventos-Java)  
+Aplicação Java com POO, ArrayList e interface via terminal.  
 Em evolução para API REST com Spring Boot.
+
+## 📊 Estatísticas
+
+![Rhaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RhanielFabricio&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RhanielFabricio&layout=compact&theme=tokyonight&locale=pt-br)
 
 ## 📫 Contato
 
