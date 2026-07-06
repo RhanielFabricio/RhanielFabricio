@@ -9,7 +9,7 @@
 Desenvolvedor backend em formação, graduado em Sistemas 
 de Informação pela UNIP (2025). Tenho background em 
 infraestrutura de TI, atuando como único responsável 
-técnico em ambiente corporativo — experiência que me 
+técnico em ambiente corporativo. Experiência que me 
 deu visão real de como sistemas funcionam em produção.
 
 Aqui no GitHub compartilho projetos e estudos que fazem 
